@@ -1,0 +1,12 @@
+a=int(input())
+b=int(input())
+print(f"sum{a+b},substraction{a-b},multiplication{a*b},division{a/b}")
+print(a**b)
+print(a+b)
+print(a-b)
+print(a%b)
+print(a//b)
+print(a/b)
+print(a*b)
+print(a**b)
+
